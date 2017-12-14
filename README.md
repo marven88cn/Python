@@ -13,7 +13,7 @@ Python简单爬虫实现
 ### 五.URL管理器
 #### 1.管理待抓取URL集合和已抓取URL集合
     -- 防止重复抓取，防止循环抓取
-    ![这里写图片描述](http://img.blog.csdn.net/20171214100822535?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvdTAxMTE5MDY4Nw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![这里写图片描述](http://img.blog.csdn.net/20171214100822535?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvdTAxMTE5MDY4Nw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
  ####   2.实现URL管理器(三种方式 内存，关系数据库，缓存数据库)
 ![这里写图片描述](http://img.blog.csdn.net/20171214101204509?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvdTAxMTE5MDY4Nw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 ### 六.Python爬虫网页下载器简介
